@@ -320,5 +320,6 @@ $
 
 ## Authors ##
 
-👤 **Dawit Seifu**
+👤 **Dawit Seifu
+Wisdom Ikegwuru**
 
